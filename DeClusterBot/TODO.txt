@@ -1,0 +1,17 @@
+﻿Refactor things:
+- More methods
+- Template language strings (json,txt,...)
+- use more Points
+
+Buggy things:
+- Sound SFX
+- GridItem collision
+- Bad performance
+- Screen scaling
+- Saving/Loading
+
+New things:
+- More weapons
+- Actual physics
+- New enemy types
+- Procedual map generation
